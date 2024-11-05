@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Taillor AI: Fashion E-Commerce Store with Personalized Recommendation System
 
 ## Features
